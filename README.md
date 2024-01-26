@@ -13,6 +13,6 @@ I'm Fawaz Oyebode Akanni, a passionate software developer with expertise in vari
 
 💬 Feel free to reach out to me if you have any questions, need assistance, or just want to chat about technology and software development.
 
-📫 You can reach me via oyebodefawaz2020@gmail.com. or connect with me on [LinkedIn/Twitter/Other Social Media].
+📫 You can reach me via oyebodefawaz2020@gmail.com.
 
 Happy Coding! 🚀
