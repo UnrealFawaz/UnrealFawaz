@@ -7,7 +7,7 @@ I'm Fawaz Oyebode Akanni, a passionate software developer with expertise in vari
 - Cybersecurity
 - Robotics with Arduino
 
-🔭 Currently, I'm working on Softare & Game development project.
+🔭 Currently, I'm working on Software & Game development project.
 
 🌱 I'm constantly learning and exploring new technologies to enhance my skills and stay updated with industry trends.
 
